@@ -18,8 +18,6 @@ body {
 .text {
   font-family: "Poppins", sans-serif;
   font-size: 1.4rem;
-  text-align: justify;
-  text-justify: inter-word;
   padding-left: 5%;
   padding-right: 5%;
 }
