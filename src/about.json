@@ -1,0 +1,6 @@
+{
+  "pong": "It was a lot of fun to make this browser game in addition to a great opportunity to use ES6 javascript classes.\n In this project I used html, css and javascript",
+  "snake": "Everyone loves to play snake, and so I decided to make my own version of the game.\n This project was a good way to learn how to use html canvas and to apply some OOP principles.\nThe stack for this project was: html, css and javascript.",
+  "landing": "In this project the goal was to create a fully responsive landing page.\n This page contains various elements such as a navigation bar, carousels and collapsibles.\n The technologies I used were, html, css, javascript and the swiperjs library.",
+  "movieapp": "This project aimed at a fully responsive page where it was possible to search for information about movies. To do this I used an external api.\n In this project I used html, css and javascript."
+}
