@@ -20,10 +20,6 @@ class Profile extends Component {
   render() {
     return (
       <section className="section container #fafafa grey lighten-5 z-depth-2 hoverable">
-        <link
-          href="http://fonts.googleapis.com/icon?family=Material+Icons"
-          rel="stylesheet"
-        ></link>
         <div className="row">
           <div className="col s12 m12 l6" style={{ marginBottom: "20px" }}>
             <ProfilePic width="200" />

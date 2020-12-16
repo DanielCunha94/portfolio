@@ -7,10 +7,6 @@ function Project(props) {
       className="card container  #fafafa grey lighten-5 z-depth-2 hoverable"
       style={{ margin: "auto" }}
     >
-      <link
-        href="http://fonts.googleapis.com/icon?family=Material+Icons"
-        rel="stylesheet"
-      ></link>
       <div className="card-image waves-effect waves-block waves-light">
         <img
           className="activator responsive-img"

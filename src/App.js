@@ -16,6 +16,10 @@ function App() {
 
   return (
     <div className="App">
+      <link
+        href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        rel="stylesheet"
+      ></link>
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link
         href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"

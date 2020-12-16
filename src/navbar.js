@@ -25,10 +25,6 @@ class NavBar extends React.Component {
   render() {
     return (
       <div>
-        <link
-          href="http://fonts.googleapis.com/icon?family=Material+Icons"
-          rel="stylesheet"
-        ></link>
         <div className="navbar-fixed">
           <nav>
             <div className="nav-wrapper #ff6f00 amber darken-4">
