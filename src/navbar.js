@@ -6,10 +6,6 @@ import "./App.css";
 //responsive NavBar with a Side bar for Mobile devices
 
 class NavBar extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   componentDidMount() {
     document.addEventListener("DOMContentLoaded", function () {
       const elems = document.querySelectorAll(".sidenav");
@@ -62,6 +58,7 @@ class NavBar extends React.Component {
                 IP tracker
               </a>
             </li>
+            <li className="divider"></li>
             <li>
               <a className="#0277bd light-blue-text darken-3" href="#movieapp">
                 Movie App

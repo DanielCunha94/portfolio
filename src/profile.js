@@ -8,9 +8,6 @@ import linkedin from "./assets/images/LI-In-Bug.png";
 import "./App.css";
 
 class Profile extends Component {
-  constructor(props) {
-    super(props);
-  }
   componentDidMount() {
     document.addEventListener("DOMContentLoaded", function () {
       var elems = document.querySelectorAll(".tooltipped");
