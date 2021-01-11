@@ -58,6 +58,11 @@ class NavBar extends React.Component {
 
           <ul id="dropdown" className="dropdown-content">
             <li>
+              <a className="#0277bd light-blue-text darken-3" href="#ip">
+                IP tracker
+              </a>
+            </li>
+            <li>
               <a className="#0277bd light-blue-text darken-3" href="#movieapp">
                 Movie App
               </a>
@@ -99,6 +104,12 @@ class NavBar extends React.Component {
           <li>
             <a className="#0277bd light-blue-text darken-3" href="#profile">
               About me
+            </a>
+          </li>
+          <li className="divider"></li>
+          <li>
+            <a className="#0277bd light-blue-text darken-3" href="#ip">
+              IP tracker
             </a>
           </li>
           <li className="divider"></li>

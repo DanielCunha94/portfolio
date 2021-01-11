@@ -9,6 +9,7 @@ import landing from "./assets/images/landing.png";
 import movies from "./assets/images/movies.png";
 import pong from "./assets/images/pong.png";
 import snake from "./assets/images/snake.png";
+import ip from "./assets/images/IP.png";
 import aboutJson from "./about";
 
 function App() {
@@ -29,6 +30,15 @@ function App() {
       <div className="container1 section #fffff">
         <div id="profile">
           <Profile />
+        </div>
+        <div id="ip" className="project">
+          <Project
+            img={ip}
+            title="IP address tracker"
+            projectLink="https://iptrackerdc.netlify.app/"
+            githubLink="https://github.com/DanielCunha94/IP-Address-Tracker"
+            about={about.ip}
+          />
         </div>
         <div id="movieapp" className="project">
           <Project
